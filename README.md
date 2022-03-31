@@ -56,7 +56,7 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/parkbohyun/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=parkbohyun&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=parkbohyun&color=A566FF&style=flat-plastic">
 </a>
 <a href="https://github.com/Parkbohyun?tab=followers">
     <img src="https://img.shields.io/github/followers/Parkbohyun?label=Followers&style=social" alt="GitHub Badge"></a>
