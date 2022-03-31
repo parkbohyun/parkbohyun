@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
-## 🙋‍♂️ About Me TTTTT
+## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Covid-19 Tracker]**
 
@@ -60,4 +60,3 @@
 </a>
 <a href="https://github.com/Parkbohyun?tab=followers">
     <img src="https://img.shields.io/github/followers/Parkbohyun?label=Followers&style=social" alt="GitHub Badge"></a>
-##
