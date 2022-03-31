@@ -4,6 +4,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
+<hr size = "2">
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Covid-19 Tracker]**
@@ -13,18 +14,20 @@
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/parkbohyun)**
 
 - 📫 How to reach me **parkbohyun2653@gmail.com**
+<hr size = 7>
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="##" target="_blank"> <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/45/000000/external-html-responsive-web-design-justicon-lineal-color-justicon.png"/> </a>
 </p>
 
 <br/>
 
 <p align="center">
-        <img title="🔥" alt="Parkbohyun's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Parkbohyun&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥" alt="Parkbohyun's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Parkbohyun&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
     </a>
 </p>
 
