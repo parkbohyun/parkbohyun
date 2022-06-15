@@ -1,9 +1,6 @@
 
 
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bohyun</h1>
-<h3 align="center">I'm a passionate Developer from Korea.</h3> -->
+<p align="center"><a href="https://github.com/parkbohyun/"><img width="80%" alt="Hello, I'm Bohyun I do open source!" src="./assets/gh-readme-header.png" /></a></p>
   
 ## 🙋‍♂️ About Me
 
