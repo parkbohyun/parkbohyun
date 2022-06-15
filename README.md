@@ -49,7 +49,7 @@
 
 <p align="center">
   <br/>
-  <a href="https://github.com/Parkbohyun/github-readme-stats"><img alt="Parkbohyun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Parkbohyun&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github-readme-stats.vercel.app/api?username=Parkbohyun&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Parkbohyun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Parkbohyun&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkbohyun&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Parkbohyun's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkbohyun&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 </p>
