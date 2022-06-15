@@ -72,7 +72,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/parkbohyun/github-profile-views-counter">
+<a href="https://komarev.com/ghpvc/?username=parkbohyun&color=A566FF&style=flat-plastic">
     <img src="https://komarev.com/ghpvc/?username=parkbohyun&color=A566FF&style=flat-plastic">
 </a>
 <a href="https://github.com/Parkbohyun?tab=followers">
