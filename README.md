@@ -17,10 +17,7 @@
 ## 🚀 Languages and Tools:
 
   <p align="left"> 
-      <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-      <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-      <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-      <a href="##" target="_blank"> <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/45/000000/external-html-responsive-web-design-justicon-lineal-color-justicon.png"/> </a>
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 </p>
 
 <br/>
