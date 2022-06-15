@@ -5,7 +5,7 @@
   
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker]**
+- 🔭 I’m currently working on **[School Community App]**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
