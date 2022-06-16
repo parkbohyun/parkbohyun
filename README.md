@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=35&color=FF5779&center=true&vCenter=true&lines=Hello!+I'm+Bohyun)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=FF5779&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hello!%2C+I'm+Bohyun.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
 <p align="center"><a href="https://github.com/parkbohyun/"><img width="80%" alt="Hello, I'm Bohyun I do open source!" src="./readme-header.png" /></a></p>
   
