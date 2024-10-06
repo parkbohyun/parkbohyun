@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/parkbohyun)**
 
-- 📫 How to reach me **parkbohyun0072@naver.com**
+- 📫 How to reach me **parkbohyun05@naver.com**
 
 - 🌐 This is my blog **[My blog](https://boh05.tistory.com/)**
   
