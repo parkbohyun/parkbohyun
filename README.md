@@ -70,6 +70,12 @@
 </p>
 
 <br/>
+
+## 💼 Career
+
+- **Windows Software Developer**  
+  - Developing and maintaining **enterprise DRM software for Windows** since **2024**
+
 <br/>
 
 ## Connect with me:
